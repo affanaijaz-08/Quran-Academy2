@@ -1,1 +1,12 @@
-# Quran-Academy2
+# CRUD
+
+**Recomanded Packages**
+
+ - body-parser
+ - connect-flash
+ - express
+ - express-messages
+ - express-session
+ - express-validator
+ - mongoose
+ - pug
